@@ -1,0 +1,9 @@
+# run command "yc config list"
+cloud_id  = "####################"
+folder_id = "####################"
+zone      = "v"
+yc_token  = "####################"
+
+# https://cloud.yandex.ru/docs/compute/operations/images-with-pre-installed-software/get-list
+# or command "yc compute image list --folder-id standard-images"
+image_id = "####################"
