@@ -2,7 +2,7 @@
 access_key  = "####################"
 secret_key = "####################"
 
-# check "Global" menu in AWS
+# check "Global" menu in AWS or https://awsregion.info/
 region = "####################"
 
 # Launch instance
