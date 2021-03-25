@@ -8,7 +8,7 @@
 [05. Zero downtime](https://github.com/p-12s/otus-terraform/tree/master/05-zero-downtime)  
 [06. Output](https://github.com/p-12s/otus-terraform/tree/master/06-output)  
 [07. Depends on](https://github.com/p-12s/otus-terraform/tree/master/07-depends-on)  
-[08. ](https://github.com/p-12s/otus-terraform/tree/master/08)  
+[08. Data sourse](https://github.com/p-12s/otus-terraform/tree/master/08-data-sourses)  
 [09. ](https://github.com/p-12s/otus-terraform/tree/master/09)     
 [10. ](https://github.com/p-12s/otus-terraform/tree/master/10)    
 [11. ](https://github.com/p-12s/otus-terraform/tree/master/11)    
