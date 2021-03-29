@@ -30,7 +30,7 @@ resource "aws_instance" "my_webserver_db" {
   instance_type          = var.instance_type
   vpc_security_group_ids = [aws_security_group.my_webserver.id]
   depends_on = [aws_instance.my_webserver_app]
-  na
+
   tags = {
     Instance = "Server.Db"
   }
