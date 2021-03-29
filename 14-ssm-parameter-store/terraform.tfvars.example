@@ -1,0 +1,23 @@
+# IAM on AWS site
+access_key  = "####################"
+secret_key = "####################"
+
+# check "Global" menu in AWS or https://awsregion.info/
+region = "####################"
+
+# Launch instance
+ami = "ami-08b6fc871ad49ff41"
+instance_type = "t2.micro"
+
+allow_ports   = ["80", "443"]
+boolean_true  = true
+tags = {
+  Owner   = "Me"
+  Service = "TestName"
+}
+ec2_size = {
+  prod    = "t3.micro"
+  dev     = "t2.micro"
+  staging = "t2.small"
+}
+env = "dev"
