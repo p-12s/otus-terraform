@@ -1,6 +1,6 @@
 ![terraform](https://github.com/p-12s/otus-terraform/blob/main/terraform.png?raw=true)
-### Cloud architecture orchestration utility
-#### v0.14.8  
+### Cloud architecture orchestration utility ([Origin source IT-VDN repo](https://github.com/adv4000/terraform-lessons))
+#### v0.14.8   
 [00. Examples](https://github.com/p-12s/otus-terraform/tree/master/00-examples)   
 [01. Installation](https://github.com/p-12s/otus-terraform/tree/master/01-install)  
 [02. WebServer](https://github.com/p-12s/otus-terraform/tree/master/02-web-server)  
