@@ -9,7 +9,7 @@
 [05. Zero downtime](https://github.com/p-12s/otus-terraform/tree/master/05-zero-downtime)  
 [06. Output](https://github.com/p-12s/otus-terraform/tree/master/06-output)  
 [07. Depends on](https://github.com/p-12s/otus-terraform/tree/master/07-depends-on)  
-[08. Data sourse](https://github.com/p-12s/otus-terraform/tree/master/08-data-sourses)  
+[08. Data source](https://github.com/p-12s/otus-terraform/tree/master/08-data-sourses)  
 [09. AMI autofinding with data sourse](https://github.com/p-12s/otus-terraform/tree/master/09-ami-autofinding-with-data-sourse)     
 [10. Zero downtime green blue deployment](https://github.com/p-12s/otus-terraform/tree/master/10-zero-downtime-green-blue-deployment)    
 [11. Settings vars](https://github.com/p-12s/otus-terraform/tree/master/11-use-settings-vars)    
