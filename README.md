@@ -1,5 +1,6 @@
 ![terraform](https://github.com/p-12s/otus-terraform/blob/main/terraform.png?raw=true)
-## Cloud architecture orchestration utility
+### Cloud architecture orchestration utility
+#### v0.14.8  
 [00. Examples](https://github.com/p-12s/otus-terraform/tree/master/00-examples)   
 [01. Installation](https://github.com/p-12s/otus-terraform/tree/master/01-install)  
 [02. WebServer](https://github.com/p-12s/otus-terraform/tree/master/02-web-server)  
@@ -21,10 +22,10 @@
 [18. Modules](https://github.com/p-12s/otus-terraform/tree/master/18-modules)    
 [19. Infrastructure](https://github.com/p-12s/otus-terraform/tree/master/19-infrastructure)    
 [20. Global vars](https://github.com/p-12s/otus-terraform/tree/master/20-global-vars)    
-[21. ](https://github.com/p-12s/otus-terraform/tree/master/21)    
-[22. ](https://github.com/p-12s/otus-terraform/tree/master/22)    
-[23. ](https://github.com/p-12s/otus-terraform/tree/master/23)    
-[24. ](https://github.com/p-12s/otus-terraform/tree/master/24)    
-[25. ](https://github.com/p-12s/otus-terraform/tree/master/25)    
-[26. ](https://github.com/p-12s/otus-terraform/tree/master/26)    
+[21. GCP](https://github.com/p-12s/otus-terraform/tree/master/21-gcp)    
+[22. Learn resources](https://github.com/p-12s/otus-terraform/tree/master/22-learn-resources)    
+[23. Import exists resources to terraform](https://github.com/p-12s/otus-terraform/tree/master/23-import-exists-resources-to-terraform)    
+[24. Additional moment](https://github.com/p-12s/otus-terraform/tree/master/24-additional-moment)    
+[25. Refactoring remote state](https://github.com/p-12s/otus-terraform/tree/master/25-refactoring-remote-state)    
+[26. Workspaces](https://github.com/p-12s/otus-terraform/tree/master/26-workspaces)    
 
