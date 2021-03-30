@@ -28,4 +28,5 @@
 [24. Mark recourse as taint](https://github.com/p-12s/otus-terraform/tree/master/24-mark-recourse-as-taint)    
 [25. Refactoring remote state](https://github.com/p-12s/otus-terraform/tree/master/25-refactoring-remote-state)    
 [26. Workspaces](https://github.com/p-12s/otus-terraform/tree/master/26-workspaces)    
-
+  
+  
