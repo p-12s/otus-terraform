@@ -25,7 +25,7 @@
 [21. GCP](https://github.com/p-12s/otus-terraform/tree/master/21-gcp)    
 [22. Learn resources](https://github.com/p-12s/otus-terraform/tree/master/22-learn-resources)    
 [23. Import exists resources to terraform](https://github.com/p-12s/otus-terraform/tree/master/23-import-exists-resources-to-terraform)    
-[24. Additional moment](https://github.com/p-12s/otus-terraform/tree/master/24-additional-moment)    
+[24. Mark recourse as taint](https://github.com/p-12s/otus-terraform/tree/master/24-mark-recourse-as-taint)    
 [25. Refactoring remote state](https://github.com/p-12s/otus-terraform/tree/master/25-refactoring-remote-state)    
 [26. Workspaces](https://github.com/p-12s/otus-terraform/tree/master/26-workspaces)    
 
