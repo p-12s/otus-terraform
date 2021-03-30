@@ -1,4 +1,4 @@
-# ADV-IT - Terraform
+<img src="terraform.png"><br>
 ## Cloud architecture orchestration utility
 [00. Examples](https://github.com/p-12s/otus-terraform/tree/master/00-examples)   
 [01. Installation](https://github.com/p-12s/otus-terraform/tree/master/01-install)  
